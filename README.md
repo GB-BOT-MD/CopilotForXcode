@@ -1,6 +1,6 @@
-# <img align="center" height="70" src="./Docs/AppIcon.png"/> GitHub Copilot for Xcode
+# <img align="center" height="70" src="./Docs/AppIcon.png"/> GB-BOT-MD
 
-[GitHub Copilot](https://github.com/features/copilot) is an AI pair programmer
+[GitHub Copilot](https://github.com/GB-BOT-MD/CopilotForXcode.git) is an AI pair programmer
 tool that helps you write code faster and smarter. Copilot for Xcode is an Xcode extension that provides inline coding suggestions as you type and a chat assistant to answer your coding questions.
 
 ## Chat
